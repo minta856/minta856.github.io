@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "minta856"
+title                    : "minta856" 
 description              : "FZU Maynooth Automation, learning programming and automation technology. "
 repository               : "minta856/minta856.github.io"
 google_scholar_stats_use_cdn : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :"minta856"
+  github           : "minta856"
   google_plus      :
   keybase          :
   instagram        :
